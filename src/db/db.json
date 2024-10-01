@@ -1,0 +1,44 @@
+{
+  "professionals": [
+    {
+      "id": "1",
+      "name": "Winton Blake",
+      "speciality": "Fisioterapeuta",
+      "contact": "wb.fisio@gmail",
+      "phone_number": "48 9696 5858",
+      "status": "on"
+    },
+    {
+      "id": "2",
+      "name": "Maria Neves",
+      "speciality": "Clínica geral",
+      "contact": "doutoramaria@gmail",
+      "phone_number": "48 98765 4321",
+      "status": "on"
+    },
+    {
+      "id": "3",
+      "name": "Ana Silva Vicente",
+      "speciality": "Cardiologista",
+      "contact": "ana.silva@gmail",
+      "phone_number": "48 9658 8811",
+      "status": "on"
+    },
+    {
+      "id": "4",
+      "name": "Pedro Bez Oliveira ",
+      "speciality": "Neurologista",
+      "contact": " neuroliveira@@gmail",
+      "phone_number": "48 99876 5432",
+      "status": "on"
+    },
+    {
+      "id": "5",
+      "name": "Karla Souza Filet",
+      "speciality": "Endocrinologista",
+      "contact": "carla.endocrinologista@gmail",
+      "phone_number": "48 91234 5678",
+      "status": "off"
+    }
+  ]
+}
